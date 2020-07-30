@@ -641,6 +641,7 @@ input, select, textarea {
 		border: 0;
 		display: inline-block;
 		position: relative;
+		
 	}
 
 		.image:before {
@@ -661,6 +662,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 4px;
 			display: block;
+			/* height: 700px; */
 		}
 
 		.image.left, .image.right {
